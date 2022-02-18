@@ -1,0 +1,52 @@
+.container{
+    height: 400px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+#Box1{
+    border: 1px solid black;
+    width: 70px;
+    height: 140px;
+    margin: 0 30px;
+
+}
+
+#Box2{
+    border: 1px solid black;
+    width: 70px;
+    height: 140px;
+    margin: 0 30px;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    bottom: 100px;
+    margin: 0 50px;
+}
+
+input{
+    width: 100px;
+    height: 50px;
+    margin: 0 30px;
+}
+
+.box3{
+    width: 400px;
+    border: 1px solid black;
+    height: 300px;
+    margin: 50px;
+}
+#display{
+    width: 200px;
+    height: 100px;
+    margin: 0 50px;
+    
+}
